@@ -19,5 +19,5 @@ let isloggedin = false
 console.log(typeof age)
 //tell datatype of age heree
 //typeof null = object so null is object***
-// type of undefine = undefine he hai
+// type of undefine = undefine he hai 
 
